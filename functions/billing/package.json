@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@google-cloud/billing": "^2.2.2",
-    "google-auth-library": "^7.0.0",
+    "google-auth-library": "^10.5.0",
     "googleapis": "^92.0.0",
     "slack": "^11.0.1"
   },
